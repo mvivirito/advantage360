@@ -63,7 +63,7 @@
 &trans      &trans     &trans  &trans  &trans  &trans     &none                                       &none   &kp TILDE       &kp PIPE        &trans        &trans     &trans   &trans
 &kp DELETE  &mkp LCLK  &trans  &trans  &trans  &mkp RCLK  &none   &trans  &trans      &trans  &trans  &none   &kp LEFT_ARROW  &kp DOWN_ARROW  &kp UP_ARROW  &kp RIGHT  &trans   &trans
 &trans      &trans     &trans  &trans  &trans  &trans                     &trans      &trans                  &trans          &trans          &trans        &trans     &trans   &trans
-&trans      &trans     &trans  &trans  &trans             &trans  &trans  &trans      &trans  &trans  &trans                  &trans          &trans        &trans     &trans   &trans
+&kp UNDER   &trans     &trans  &trans  &trans             &trans  &trans  &trans      &trans  &trans  &trans                  &trans          &trans        &trans     &trans   &trans
             >;
         };
 
